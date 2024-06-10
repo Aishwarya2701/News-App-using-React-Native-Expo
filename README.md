@@ -8,6 +8,10 @@ This is a news application built with React Native and Expo. The app fetches and
 - Allows users to filter news by category
 - User-friendly interface
 
+
+## Screenshot
+![WhatsApp Image 2024-06-10 at 14 00 45_9b2c1c78](https://github.com/Aishwarya2701/News-App-using-React-Native-Expo/assets/74247717/ad1ecfa4-51c1-42f2-b4c2-8998a9cd2aa0)
+
 ## Installation
 
 1. Clone the repository:
